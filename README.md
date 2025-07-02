@@ -1,5 +1,5 @@
-> [!NOTE]
-> # 不吉な宝物庫-目押しツール! Devloped by DonutSuZu
+> [!No Hack.]
+> # ・Modやデータパックに頼らないシステム
 <h1 align="center">
   <b>Minecraft Ominous_vault_Container Tool</b>
   <br>
@@ -12,8 +12,6 @@
   <br />
 </p>
 
-### No Hack.
-・Modやデータパックに頼らないシステム
 
 ## 最新版
 こちら: [releases page](https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases)
