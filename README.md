@@ -15,7 +15,7 @@
 
 
 ## 最新版
-こちら: [releases page](https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases)
+こちら: [releases page](https://github.com/DonutSuZu/Ominous_vault_tool/releases)
 
 ## サポート OS
 Windows 11 home
