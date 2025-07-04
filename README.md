@@ -1,5 +1,5 @@
 > [!No Hack.]
-> # ・Modやデータパックに頼らないシステム
+> # Modやデータパックに頼らないシステム
 <h1 align="center">
   <b>Minecraft Ominous_vault_Container Tool</b>
   <br>
