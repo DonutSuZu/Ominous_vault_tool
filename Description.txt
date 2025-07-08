@@ -1,0 +1,69 @@
+# 不吉な宝物庫-目押しツール! Devloped by DonutSuZu
+[V.1.0.0-Win11-Cu126-LateMiMiLion-TrialCat]
+:archived_BID_01:
+:視野50がおすすめ:
+
+内容:
+Execution:{
+Description:実行ファイル群です。
+システムテンプレート:execution_template.py
+学習済みモデル:./PT/Ominous.pt
+Log収集:Log.py
+./Log:ログファイル.txt
+class_id確認:Target_confirmation.py
+}
+MC_Pack{
+Suzupack:
+Description:コンテナー透明化パック
+}
+
+ご購入ありがとうございます!
+初めは環境構築をPythonで行う必要があります!
+https://www.python.org/downloads/
+からダウンロードをするか、付属インストールプログラム(python-3.13.5-amd64.exe)を使用してダウンロードしてください!
+
+
+1:用意した/用意された"python-3.13.5-amd64"を実行します
+2:install Nowを押す前に、Add Python 3.13 to PATHにチェック✅をいれてください
+3:🛡install Nowを押してインストールを完了します。
+4:windowsで"コマンドプロンプト"を開きます(開く方法はお任せします)
+5:開いたコマンドプロンプトで、次のpython pip install コマンドを入力してください。
+pip install ultralytics
+6:入力したらエンターキーで実行します。
+7:完了したらコンテナーツール/Executionで右クリック→"ターミナルで開く"を押します
+8:py core.pyと入力してエンターキーを押します。
+9:数字を入力します。
+9:プログラムが起動することを確認します。
+
+使い方:
+リソースパックを適用し、影modなどをオフにしてください!
+1:目的の宝物庫に到着したら、宝物庫が頭の前に来るように、場所によっては相場を一つ掘り下げて作ります。
+ニマス：宝物庫 ←目線
+一マス:　　　　　胴体
+2:視野を50に設定し、宝物庫の後ろが白色の羊毛ブロックにします(しなくても反応しますが、したほうが精度が上がります。)
+3:ラインナップとして表示されるアイテムが真ん中にくるように視点を調整します。
+4:不吉な鍵を持った状態で、F1キーを押したら、core.pyを動作確認と同じ要領で起動します。
+注:ESCキーを押すと動作が停止します。インベントリを閉じるときはインベントリ開閉キーで閉じてください。
+5:あとは待つだけです。
+
+注意:
+必ず狙ったアイテムがでるとは限りません。
+レアリティに準じたアイテムがランダムで排出されます。ヘビーコアを狙ったときに、同レアリティのエンチャント金リンゴがでる可能性もあります。
+
+【禁止行為】 　
+･自作発言 　
+･二次配布及び元の透過データそのものを転売･公表する行為 　
+･本データを使用しての法律･公序良俗に反する行為 　
+･その他、著作権者:DonutSuZuが不適切と判断する行為 確認事項および禁止行為につきましては予告なく変更する場合がございます。予めご了承ください。
+
+[credit]
+https://github.com/ultralytics/ultralytics?tab=readme-ov-file
+https://www.python.org/
+
+[テスト環境]
+Minecraft Java Edition 1.21.5 [Iris/Sodium]
+Windows 11 home,
+CPU:i7 9700k/Nvidia Geforce RTX2080 ti
+RAM:DDR4 16GB
+SSD 1TB
+JAVA-21/Python-3.13.5
